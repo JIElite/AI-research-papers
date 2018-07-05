@@ -17,4 +17,4 @@ They compared their network grafting method than TrAdaBoost and TrBagg and they 
 
 [2] Rusu et al., Progressive Neural Networks [ICLR] 
 
-[3] (cross-validation：从 holdout validation 到 k-fold validation)[https://blog.csdn.net/lanchunhui/article/details/50522424]
+[3] [cross-validation：从 holdout validation 到 k-fold validation](https://blog.csdn.net/lanchunhui/article/details/50522424)
